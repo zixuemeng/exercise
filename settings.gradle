@@ -1,0 +1,1 @@
+include ':app', ':librarytitanic', ':titanicsample', ':viewpagertransformer', ':libraryviewpagertransformer', ':screenshot', ':floatwindowsample'
