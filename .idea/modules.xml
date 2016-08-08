@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/screenshot/screenshot.iml" filepath="$PROJECT_DIR$/screenshot/screenshot.iml" />
       <module fileurl="file://$PROJECT_DIR$/titanicsample/titanicsample.iml" filepath="$PROJECT_DIR$/titanicsample/titanicsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpagertransformer/viewpagertransformer.iml" filepath="$PROJECT_DIR$/viewpagertransformer/viewpagertransformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volleysample/volleysample.iml" filepath="$PROJECT_DIR$/volleysample/volleysample.iml" />
       <module fileurl="file://$PROJECT_DIR$/wechat/wechat.iml" filepath="$PROJECT_DIR$/wechat/wechat.iml" />
     </modules>
   </component>

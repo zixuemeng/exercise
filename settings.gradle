@@ -1,1 +1,3 @@
-include ':app', ':librarytitanic', ':titanicsample', ':viewpagertransformer', ':libraryviewpagertransformer', ':screenshot', ':floatwindowsample'
+include ':app', ':librarytitanic', ':titanicsample', ':viewpagertransformer',
+        ':libraryviewpagertransformer', ':screenshot', ':floatwindowsample',
+        ':volleysample', ':volley'

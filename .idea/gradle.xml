@@ -16,6 +16,8 @@
             <option value="$PROJECT_DIR$/screenshot" />
             <option value="$PROJECT_DIR$/titanicsample" />
             <option value="$PROJECT_DIR$/viewpagertransformer" />
+            <option value="$PROJECT_DIR$/volley" />
+            <option value="$PROJECT_DIR$/volleysample" />
           </set>
         </option>
       </GradleProjectSettings>
