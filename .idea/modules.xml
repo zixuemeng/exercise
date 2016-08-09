@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/Application.iml" filepath="$PROJECT_DIR$/Application.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatwindowsample/floatwindowsample.iml" filepath="$PROJECT_DIR$/floatwindowsample/floatwindowsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient/httpclient.iml" filepath="$PROJECT_DIR$/httpclient/httpclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/librarytitanic/librarytitanic.iml" filepath="$PROJECT_DIR$/librarytitanic/librarytitanic.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraryviewpagertransformer/libraryviewpagertransformer.iml" filepath="$PROJECT_DIR$/libraryviewpagertransformer/libraryviewpagertransformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/screenshot/screenshot.iml" filepath="$PROJECT_DIR$/screenshot/screenshot.iml" />
       <module fileurl="file://$PROJECT_DIR$/titanicsample/titanicsample.iml" filepath="$PROJECT_DIR$/titanicsample/titanicsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpagertransformer/viewpagertransformer.iml" filepath="$PROJECT_DIR$/viewpagertransformer/viewpagertransformer.iml" />

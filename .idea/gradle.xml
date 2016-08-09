@@ -11,8 +11,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/floatwindowsample" />
+            <option value="$PROJECT_DIR$/httpclient" />
             <option value="$PROJECT_DIR$/librarytitanic" />
             <option value="$PROJECT_DIR$/libraryviewpagertransformer" />
+            <option value="$PROJECT_DIR$/okhttp" />
             <option value="$PROJECT_DIR$/screenshot" />
             <option value="$PROJECT_DIR$/titanicsample" />
             <option value="$PROJECT_DIR$/viewpagertransformer" />
