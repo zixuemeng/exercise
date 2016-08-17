@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/contentprovidersample" />
             <option value="$PROJECT_DIR$/floatwindowsample" />
             <option value="$PROJECT_DIR$/httpclient" />
             <option value="$PROJECT_DIR$/librarytitanic" />
