@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/libraryviewpagertransformer/libraryviewpagertransformer.iml" filepath="$PROJECT_DIR$/libraryviewpagertransformer/libraryviewpagertransformer.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerviewsample/recyclerviewsample.iml" filepath="$PROJECT_DIR$/recyclerviewsample/recyclerviewsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava/rxjava.iml" filepath="$PROJECT_DIR$/rxjava/rxjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/screenshot/screenshot.iml" filepath="$PROJECT_DIR$/screenshot/screenshot.iml" />
       <module fileurl="file://$PROJECT_DIR$/titanicsample/titanicsample.iml" filepath="$PROJECT_DIR$/titanicsample/titanicsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpagertransformer/viewpagertransformer.iml" filepath="$PROJECT_DIR$/viewpagertransformer/viewpagertransformer.iml" />
