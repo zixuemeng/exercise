@@ -1,3 +1,3 @@
-include ':app', ':librarytitanic', ':titanicsample', ':viewpagertransformer', ':httpclient', ':okhttp', ':recyclerviewsample', ':contentprovidersample', ':rxjava', ':bottomsheetsample',
+include ':app', ':librarytitanic', ':titanicsample', ':viewpagertransformer', ':httpclient', ':okhttp', ':recyclerviewsample', ':contentprovidersample', ':rxjava', ':bottomsheetsample', ':collapsingtitle',
         ':libraryviewpagertransformer', ':screenshot', ':floatwindowsample',
         ':volleysample', ':volley'

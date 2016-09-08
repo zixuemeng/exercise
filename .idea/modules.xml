@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Application.iml" filepath="$PROJECT_DIR$/Application.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomsheetsample/bottomsheetsample.iml" filepath="$PROJECT_DIR$/bottomsheetsample/bottomsheetsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collapsingtitle/collapsingtitle.iml" filepath="$PROJECT_DIR$/collapsingtitle/collapsingtitle.iml" />
       <module fileurl="file://$PROJECT_DIR$/contentprovidersample/contentprovidersample.iml" filepath="$PROJECT_DIR$/contentprovidersample/contentprovidersample.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatwindowsample/floatwindowsample.iml" filepath="$PROJECT_DIR$/floatwindowsample/floatwindowsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclient/httpclient.iml" filepath="$PROJECT_DIR$/httpclient/httpclient.iml" />
