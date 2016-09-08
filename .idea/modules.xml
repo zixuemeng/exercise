@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application.iml" filepath="$PROJECT_DIR$/Application.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottomsheetsample/bottomsheetsample.iml" filepath="$PROJECT_DIR$/bottomsheetsample/bottomsheetsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/contentprovidersample/contentprovidersample.iml" filepath="$PROJECT_DIR$/contentprovidersample/contentprovidersample.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatwindowsample/floatwindowsample.iml" filepath="$PROJECT_DIR$/floatwindowsample/floatwindowsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclient/httpclient.iml" filepath="$PROJECT_DIR$/httpclient/httpclient.iml" />
@@ -17,7 +18,6 @@
       <module fileurl="file://$PROJECT_DIR$/viewpagertransformer/viewpagertransformer.iml" filepath="$PROJECT_DIR$/viewpagertransformer/viewpagertransformer.iml" />
       <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
       <module fileurl="file://$PROJECT_DIR$/volleysample/volleysample.iml" filepath="$PROJECT_DIR$/volleysample/volleysample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wechat/wechat.iml" filepath="$PROJECT_DIR$/wechat/wechat.iml" />
     </modules>
   </component>
 </project>
