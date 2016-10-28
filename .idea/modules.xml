@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/contentprovidersample/contentprovidersample.iml" filepath="$PROJECT_DIR$/contentprovidersample/contentprovidersample.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatwindowsample/floatwindowsample.iml" filepath="$PROJECT_DIR$/floatwindowsample/floatwindowsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclient/httpclient.iml" filepath="$PROJECT_DIR$/httpclient/httpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launcheranimationview/launcheranimationview.iml" filepath="$PROJECT_DIR$/launcheranimationview/launcheranimationview.iml" />
       <module fileurl="file://$PROJECT_DIR$/librarytitanic/librarytitanic.iml" filepath="$PROJECT_DIR$/librarytitanic/librarytitanic.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraryviewpagertransformer/libraryviewpagertransformer.iml" filepath="$PROJECT_DIR$/libraryviewpagertransformer/libraryviewpagertransformer.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
